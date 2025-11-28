@@ -1,6 +1,7 @@
-### Here is flugel!
-
 <div align="center">
-  <img src="giehub.com/flugel100-max/flugel100-max/main/len.png" width="600" alt="picture" />
-  <p><em>A gift!</em></p>
+
+  <h1>Here is flugel!</h1>
+
+  <img src="Len.jpg" alt="flugel picture" width="400" />
+
 </div>
